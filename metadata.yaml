@@ -1,0 +1,63 @@
+_repo: The-Poet-Assassinated_60771
+_version: 0.0.1
+alternative_title: Le poète assassiné. English
+contributor:
+  illustrators:
+  - agent_name: Derain, André
+    alias: Derain, Andre
+    birthdate: &id001 1880
+    deathdate: 1954
+    gutenberg_agent_id: '51104'
+    url: http://www.gutenberg.org/2009/agents/51104
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Derain
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Derain
+  - agent_name: Rouveyre, André
+    aliases:
+    - Rouveyre, André Louis Marie
+    - Rouveyre, Andre
+    birthdate: 1879
+    deathdate: 1962
+    gutenberg_agent_id: '51099'
+    url: http://www.gutenberg.org/2009/agents/51099
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Andr%C3%A9_Rouveyre
+    - https://en.wikipedia.org/wiki/Andr%C3%A9_Rouveyre
+  translator:
+    agent_name: Josephson, Matthew
+    birthdate: 1899
+    deathdate: 1978
+    gutenberg_agent_id: '51136'
+    url: http://www.gutenberg.org/2009/agents/51136
+    wikipedia: https://en.wikipedia.org/wiki/Matthew_Josephson
+creator:
+  author:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Kostrowisky, Guillaume de
+    - De Kostrowisky, Guillaume
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - Kostrowitzky, Wilhelm Apollinaris de
+    birthdate: *id001
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Guillaume_Apollinaire
+    - https://fr.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_issued: '2019-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60771'
+  lccn: '24015706'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- 20th century -- Translations into English'
+- GITenberg
+title: The Poet Assassinated
+url: http://www.gutenberg.org/ebooks/60771
