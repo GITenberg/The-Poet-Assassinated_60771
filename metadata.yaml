@@ -1,11 +1,11 @@
 _repo: The-Poet-Assassinated_60771
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Le poète assassiné. English
 contributor:
   illustrators:
   - agent_name: Derain, André
     alias: Derain, Andre
-    birthdate: &id001 1880
+    birthdate: 1880
     deathdate: 1954
     gutenberg_agent_id: '51104'
     url: http://www.gutenberg.org/2009/agents/51104
@@ -30,6 +30,9 @@ contributor:
     gutenberg_agent_id: '51136'
     url: http://www.gutenberg.org/2009/agents/51136
     wikipedia: https://en.wikipedia.org/wiki/Matthew_Josephson
+covers:
+- cover_type: archival
+  image_path: 60771-h/images/apollinaire_cover.jpg
 creator:
   author:
     agent_name: Apollinaire, Guillaume
@@ -38,7 +41,7 @@ creator:
     - De Kostrowisky, Guillaume
     - Apollinaris de Kostrowitzky, Wilhelm
     - Kostrowitzky, Wilhelm Apollinaris de
-    birthdate: *id001
+    birthdate: 1880
     deathdate: 1918
     gutenberg_agent_id: '6075'
     url: http://www.gutenberg.org/2009/agents/6075
@@ -46,6 +49,8 @@ creator:
     - https://en.wikipedia.org/wiki/Guillaume_Apollinaire
     - https://fr.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60771#The-Poet-Assassinated
 gutenberg_issued: '2019-11-23'
 gutenberg_type: Text
 identifiers:
